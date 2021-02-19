@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="name">Login with Google</string>
+    <string name="name1">Login with Facebook</string>
+    <string name="Name">Name:   </string>
+    <string name="Email">Email:   </string>
+    <string name="logout">Log Out</string>
+
+    <string name="facebook_app_id">222490309592147</string>
+    <string name="fb_login_protocol_scheme">fb222490309592147</string>
+
+</resources>
